@@ -1,0 +1,10 @@
+/* // https://docs.google.com/presentation/d/1vJoSsO7qge5UbSO6tnda8nZULI5nhsSoHhFHAJZihqI/edit?usp=sharing */
+.text-editor{
+    margin-top: .5rem;
+}
+
+@media screen and (max-width:600px) {
+   .text-editor{
+       width: 300px !important ;
+   }
+   }
